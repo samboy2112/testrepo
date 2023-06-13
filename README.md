@@ -1,2 +1,2 @@
 # testrepo
-It's amrkdown in this repository.
+It's markdown in this repository.
